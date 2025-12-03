@@ -21,6 +21,18 @@ I build clean, minimal, and efficient interfaces with a focus on performance and
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NayanSarania\&show_icons=true\&hide_border=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanSarania\&layout=compact\&hide_border=true\&theme=tokyonight)
+
+</div>
+
+---
+
 ## Contact
 **Email:** nayan.sarania.work@gmail.com  
 **Portfolio:** coming soon
