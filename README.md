@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nayan Sarania
 
-<!--
-**naayann/naayann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer**
 
-Here are some ideas to get you started:
+I build clean, minimal, and efficient interfaces with a focus on performance and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks:** React, Tailwind CSS  
+- **Tools:** Git, GitHub, NPM  
+
+---
+
+## 📌 About Me
+- I write clean and readable code  
+- Learning modern front-end engineering every day  
+- Love minimal UI and efficient systems  
+
+---
+
+## 📫 Contact
+- **Email:** your-email@example.com  
+- **Portfolio:** comming soon 
