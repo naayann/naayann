@@ -1,25 +1,25 @@
-# Hi, I'm Nayan Sarania
+#Hi, I'm Nayan Sarania
 
 **Frontend Developer**
-
-I build clean, minimal, and efficient interfaces with a focus on performance and user experience.
-
----
-
-## 🚀 Skills
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks:** React, Tailwind CSS  
-- **Tools:** Git, GitHub, NPM  
+I build clean, minimal, and performance-oriented web interfaces -while steadily moving toward full-stack development.
 
 ---
 
-## 📌 About Me
-- I write clean and readable code  
-- Learning modern front-end engineering every day  
-- Love minimal UI and efficient systems  
+## Core Skills
+**Languages:** HTML, CSS, JavaScript  
+**Frameworks:** React, Tailwind CSS  
+**Tools:** Git, GitHub, NPM
 
 ---
 
-## 📫 Contact
-- **Email:** your-email@example.com  
-- **Portfolio:** comming soon 
+## About Me
+- Actively learning and refining my understanding of technologies  
+- Using AI tools to speed up iteration, explore ideas, and improve debugging  
+- Preparing to moving into TypeScript, Next.js, and Node.js to grow toward full‑stack
+- Prefer minimalism, consistency, and maintainability in both code and design  
+
+---
+
+## Contact
+**Email:** nayan.sarania.work@gmail.com  
+**Portfolio:** coming soon
