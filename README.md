@@ -3,6 +3,7 @@
 **Frontend Developer**
 
 I build clean, minimal, and efficient interfaces with a focus on performance and user experience.
+
 ---
 
 ## Skills
