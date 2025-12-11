@@ -9,7 +9,7 @@ I build clean, minimal, and efficient interfaces with a focus on performance and
 ## Skills
 **Languages:** HTML, CSS, JavaScript  
 **Frameworks:** React, Tailwind CSS  
-**Tools:** Git, GitHub, NPM
+**Tools:** Cursor, Git, GitHub, NPM, Figma
 
 ---
 
