@@ -2,7 +2,7 @@
   <span>Hii, I Am</span><br>
   <span>Nayan Sarania</span>
 </h1>
-Web developer based in India, experienced in building clean frontend web applications with React - focused on performance and user experience.
+Web developer based in India, experienced in building clean frontend web applications with React <br> - focused on performance and user experience.
 
 ---
 
@@ -27,8 +27,8 @@ Web developer based in India, experienced in building clean frontend web applica
 ## About
 
 - Actively learning and refining my understanding of technologies  
+- Preparing to move into TypeScript, Next.js, and Node.js to grow toward full-stack  
 - Using AI tools to speed up iteration, explore ideas, and improve debugging  
-- Preparing to moving into TypeScript, Next.js, and Node.js to grow toward full-stack  
 - Prefer minimalism, consistency, and maintainability in both code and design
 
 ---
