@@ -1,26 +1,30 @@
-# Hi, I'm Nayan Sarania
+<div align="center">
 
+# Nayan Sarania  
 **Frontend Developer**
 
-I build clean, minimal, and efficient interfaces with a focus on performance and user experience.
+Web developer based in India, experienced in building clean, high-quality frontend web applications with React — focused on performance, usability, and user experience.
+
+</div>
 
 ---
 
-## Skills
-**Languages:** HTML, CSS, JavaScript  
-**Frameworks:** React, Tailwind CSS  
-**Tools:** Cursor, Git, GitHub, NPM, Figma
+## Tech Stack
+**Core Technologies:** HTML, CSS, JavaScript, React, Tailwind CSS  
+**Developer Tools:** Git, GitHub, NPM, Figma, Vite
+
 
 ---
 
-## About Me
-- Actively learning and refining my understanding of technologies  
-- Using AI tools to speed up iteration, explore ideas, and improve debugging  
-- Preparing to moving into TypeScript, Next.js, and Node.js to grow toward full‑stack
-- Prefer minimalism, consistency, and maintainability in both code and design  
+## What I Do
+- Build performance-focused, scalable, and clean frontend interfaces  
+- Use AI tools to improve development flow, debugging, and ideation  
+- Continuously learning modern web technologies and best practices  
+- Moving into **TypeScript**, **Next.js**, and **Node.js** to advance toward full-stack development  
+- Prefer structured, maintainable code and visually consistent UI  
 
 ---
 
 ## Contact
 **Email:** nayan.sarania.work@gmail.com  
-**Portfolio:** nayansarania.netlify.app
+**Portfolio:** https://nayansarania.netlify.app
