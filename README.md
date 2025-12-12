@@ -1,7 +1,7 @@
 # Nayan Sarania  
 **Frontend Developer**
 
-Web developer based in India, experienced in building clean, high-quality frontend web applications with React — focused on performance, usability, and user experience.
+Web developer based in India, experienced in building clean frontend web applications with React - focused on performance and user experience.
 
 ---
 
@@ -26,5 +26,5 @@ Git • GitHub • NPM • Figma • Vite
 
 ## Contact
 
-**Email** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
-**Portfolio** [nayansarania.netlify.app](https://nayansarania.netlify.app)
+**Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
+**Portfolio:** [nayansarania.netlify.app](https://nayansarania.netlify.app)
