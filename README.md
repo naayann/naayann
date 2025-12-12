@@ -23,4 +23,4 @@ I build clean, minimal, and efficient interfaces with a focus on performance and
 
 ## Contact
 **Email:** nayan.sarania.work@gmail.com  
-**Portfolio:** coming soon
+**Portfolio:** nayansarania.netlify.app
