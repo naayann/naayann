@@ -11,8 +11,8 @@ Web developer based in India, experienced in building clean frontend web applica
 **Core Technologies**  
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&color=1E293B)
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&color=1E293B)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=1E293B)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&color=1E293B)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=1E293B)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&color=1E293B)
 ![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&color=1E293B)
 
 **Developer Tools**  
@@ -33,7 +33,7 @@ Web developer based in India, experienced in building clean frontend web applica
 
 ---
 
-## Contact
+## Connect
 
 **Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
 **Portfolio:** [nayansarania.netlify.app](https://nayansarania.netlify.app)
