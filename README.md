@@ -14,6 +14,7 @@ Web developer based in India, experienced in building clean frontend web applica
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=1E293B)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&color=1E293B)
 ![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&color=1E293B)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&color=1E293B)
 
 **Developer Tools**  
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=1E293B)
