@@ -24,7 +24,7 @@
 
 ## About
 - Actively learning and refining my understanding of technologies
-- Preparing to move into TypeScript, Next.js, and Node.js to grow toward full-stack
+- Preparing to move into **TypeScript**, **Next.js**, and **Node.js** to grow toward full-stack
 - Using AI tools to speed up iteration, explore ideas, and improve debugging
 - Prefer minimalism, consistency, and maintainability in both code and design
 
