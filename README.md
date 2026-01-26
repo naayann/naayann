@@ -23,9 +23,9 @@
 ---
 
 ## About
-- Actively learning and refining my understanding of technologies
-- Preparing to move into **TypeScript**, **Next.js**, and **Node.js** to grow toward full-stack
-- Using AI tools to speed up iteration, explore ideas, and improve debugging
+- Currently learning **TypeScript**
+- Actively refining my understanding of technologies
+- Using AI tools to speed up iteration, explore ideas, & improve debugging
 - Prefer minimalism, consistency, and maintainability in both code and design
 
 ---
@@ -35,4 +35,4 @@
 **Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
 **Portfolio:** [nayansarania.netlify.app](https://nayansarania.netlify.app)
 
-Open to frontend opportunities, collaborations, and discussions on modern web development.
+Open to opportunities and collaborations.
