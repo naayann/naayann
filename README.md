@@ -34,6 +34,6 @@
 ## Let's Connect
 **X:** [@naayann01](https://x.com/naayann01) <br/>
 **Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
-**Portfolio:** [nayansarania.netlify.app](https://nayansarania.netlify.app)
+**Portfolio:** [nayansarania.netlify.app](https://nayansarania.vercel.app/)
 
 Open to opportunities and collaborations.
