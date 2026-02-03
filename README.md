@@ -1,6 +1,7 @@
 # Nayan Sarania
 
-**Web developer based in India, experienced in building clean frontend web applications with React — focused on performance and user experience.**
+**Web developer based in India, experienced in building clean frontend web applications with React <br>
+— focused on performance and user experience.**
 
 ---
 
