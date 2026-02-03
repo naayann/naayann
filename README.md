@@ -22,9 +22,9 @@
 ---
 
 ## About
-- Currently learning **TypeScript**
-- Actively refining my understanding of technologies
-- Using AI tools to speed up iteration, explore ideas, & improve debugging
+- Frontend developer focused on React, performance, clean UI, and solid user experience
+- Currently strengthening **TypeScript** skills and exploring tools like *TanStack Query*
+- Using AI-assisted workflows to accelerate prototyping, debugging, and idea exploration
 - Prefer minimalism, consistency, and maintainability in both code and design
 
 ---
