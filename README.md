@@ -1,7 +1,7 @@
 # Nayan Sarania
 
-**Web developer based in India, experienced in building clean frontend web applications with React <br>
-— focused on performance and user experience.**
+**Frontend web developer based in India, experienced in building clean and performant React applications  
+— with a strong focus on user experience.**
 
 ---
 
@@ -24,16 +24,16 @@
 ---
 
 ## About
-- Frontend developer focused on React, performance, clean UI, and solid user experience
-- Currently strengthening **TypeScript** skills and exploring tools like *TanStack Query*
-- Using AI-assisted workflows to accelerate prototyping, debugging, and idea exploration
+- Frontend developer focused on **React**, performance, clean UI, and user experience
+- Currently strengthening **TypeScript** skills and exploring tools like **TanStack Query**
+- Using AI-assisted workflows to speed up prototyping, debugging, and idea exploration
 - Prefer minimalism, consistency, and maintainability in both code and design
 
 ---
 
-## Let's Connect
-**X:** [@naayann01](https://x.com/naayann01) <br/>
+## Let’s Connect
+**X:** [@naayann01](https://x.com/naayann01)  
+**Portfolio:** [nayansarania.vercel.app](https://nayansarania.vercel.app/)  
 **Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
-**Portfolio:** [nayansarania.vercel.app](https://nayansarania.vercel.app/)
 
-Open to opportunities and collaborations. Feel free to reach out!
+Open to opportunities and collaborations. Feel free to reach out.
