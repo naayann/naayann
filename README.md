@@ -32,4 +32,4 @@ Experienced in crafting clean, performant React applications with strong focus o
 **Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
 **Portfolio:** [nayansarania.vercel.app](https://nayansarania.vercel.app/)  
 
-Open to frontend opportunities, collaborations. Feel free to reach out! 🚀
+Open to frontend opportunities, collaborations. Feel free to reach out!
