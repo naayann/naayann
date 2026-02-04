@@ -1,10 +1,8 @@
-# Nayan Sarania
-
-**Frontend web developer based in India, experienced in building clean and performant React applications  
-— with a strong focus on user experience.**
+# Hii, I'm Nayan
+**Frontend Web Developer based in India**  
+Experienced in crafting clean, performant React applications with strong focus on user experience, accessibility, and maintainable code.
 
 ---
-
 ## Tools & Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,18 +20,16 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
-
 ## About
-- Frontend developer focused on **React**, performance, clean UI, and user experience
-- Currently strengthening **TypeScript** skills and exploring tools like **TanStack Query**
-- Using AI-assisted workflows to speed up prototyping, debugging, and idea exploration
-- Prefer minimalism, consistency, and maintainability in both code and design
+- Frontend developer focused on **React**, performance, clean UI, and solid user experience
+- Currently strengthening **TypeScript*** skills and exploring tools like **TanStack Query**
+- Using AI-assisted workflows to accelerate prototyping, debugging, and idea exploration
+- Core values: minimalism, consistency, code maintainability, and accessibility
 
 ---
-
-## Let’s Connect
+## Let's Connect
 **X:** [@naayann01](https://x.com/naayann01)  
-**Portfolio:** [nayansarania.vercel.app](https://nayansarania.vercel.app/)  
 **Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
+**Portfolio:** [nayansarania.vercel.app](https://nayansarania.vercel.app/)  
 
-Open to opportunities and collaborations. Feel free to reach out.
+Open to frontend opportunities, collaborations. Feel free to reach out! 🚀
