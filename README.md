@@ -22,7 +22,7 @@ Experienced in crafting clean, performant React applications with strong focus o
 ---
 ## About
 - Frontend developer focused on **React**, performance, clean UI, and solid user experience
-- Currently strengthening **TypeScript*** skills and exploring tools like **TanStack Query**
+- Currently strengthening **TypeScript** skills and exploring tools like **TanStack Query**
 - Using AI-assisted workflows to accelerate prototyping, debugging, and idea exploration
 - Core values: minimalism, consistency, code maintainability, and accessibility
 
