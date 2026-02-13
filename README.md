@@ -3,7 +3,7 @@
 **Web Developer based in India, specializing in Frontend and expanding to Full-Stack**
 
 Experienced in crafting clean, performant React applications with a strong focus on user experience, accessibility, and maintainable code.  
-Currently expanding my skills into full-stack development by learning backend technologies like Next.js, Node.js, and PostgreSQL to build complete web applications.
+Currently expanding my skills into full-stack development by learning backend technologies like Next.js, Node.js, and PostgreSQL.
 
 ---
 
@@ -23,14 +23,13 @@ Currently expanding my skills into full-stack development by learning backend te
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
 ## About
 
 - Web developer with a strong foundation in frontend, focused on **React**, performance, clean UI, and solid user experience
-- Currently learning **Next.js**, exploring tools like **TanStack Query**, and expanding into backend technologies for full-stack development
+- Currently learning **Next.js**, exploring tools like **TanStack Query**, and expanding into backend technologies for full-stack
 - Using AI-assisted workflows to accelerate prototyping, debugging, and idea exploration
 - Core values: minimalism, consistency, code maintainability, and accessibility
 
