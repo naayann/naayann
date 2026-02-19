@@ -41,7 +41,7 @@ Currently expanding my skills into full-stack development by learning backend te
 
 **X:** [@naayann01](https://x.com/naayann01)  
 **Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
-**Portfolio:** [nayansarania.vercel.app](https://nayansarania.vercel.app/)
+**Portfolio:** [naayann.vercel.app](https://naayann.vercel.app/)
 
 Open to **frontend roles** or collaborations.  
 Feel free to reach out!
