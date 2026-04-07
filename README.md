@@ -2,13 +2,12 @@
 
 **Web Developer based in India, specializing in Frontend and expanding to Full-Stack**
 
-Experienced in crafting clean, performant React applications with a strong focus on user experience, accessibility, and maintainable code.
-
-Currently expanding my skills into full-stack development with Next.js, Node.js, and PostgreSQL.
+Experienced in crafting performant React applications with focus on clean UI, user experience, and maintainable code.  
+Currently expanding my skills into full-stack development.
 
 ---
 
-## Tools & Technologies
+## What I Work With
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,21 +24,22 @@ Currently expanding my skills into full-stack development with Next.js, Node.js,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ---
 
-## About
-- Strong foundation in frontend, focused on **React**, performance, clean UI, and solid user experience
-- Currently learning **Next.js** and expanding into backend technologies for full-stack
-- Using AI-assisted workflows to accelerate prototyping, debugging, and idea exploration
+## What I Focus On
+
+- Strong foundation in frontend, focused on **React**, performance, clean UI, and user experience  
+- Currently learning **Next.js**, **Node.js** and expanding to full-stack  
+- Using AI-assisted workflows to accelerate prototyping, debugging, and idea exploration  
 - Core values: minimalism, consistency, code maintainability, and accessibility
 
 ---
 
-## Let's Connect
-**X:** [@naayann01](https://x.com/naayann01)  
-**Email:** [nayan.sarania.work@gmail.com](mailto:nayan.sarania.work@gmail.com)  
-**Portfolio:** [naayann.vercel.app](https://naayann.vercel.app/)
+## Reach Me Out Here
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/naayann01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayan.sarania.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://naayann.vercel.app/)
 
 Open to **frontend roles** or collaborations.  
 Feel free to reach out! 🚀
